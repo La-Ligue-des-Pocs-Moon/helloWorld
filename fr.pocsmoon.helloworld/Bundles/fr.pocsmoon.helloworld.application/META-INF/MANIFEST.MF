@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Application
+Bundle-SymbolicName: fr.pocsmoon.helloworld.application;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: fr.pocsmoon.helloworld.application.Activator
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: fr.pocsmoon.helloworld.application
+Bundle-ActivationPolicy: lazy

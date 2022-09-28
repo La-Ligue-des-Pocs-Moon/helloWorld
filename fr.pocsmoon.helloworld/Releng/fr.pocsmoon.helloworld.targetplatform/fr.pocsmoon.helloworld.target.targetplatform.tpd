@@ -1,0 +1,7 @@
+target "fr.chatnoir.enigmator.target.target"
+
+environment JavaSE-17
+with source requirements
+
+include "eclipse.tpd"
+include "justj.tpd"
